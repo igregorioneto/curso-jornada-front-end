@@ -1,10 +1,15 @@
+/* Components */
 @import './header.css';
+@import './buttons.css';
 
+/* Reset Css */
 * {
   margin: 0;
   padding: 0;
   border: 0;
   font-size: 100%;
   font: inherit;
+  font-family: sans-serif;
   vertical-align: baseline;
+  text-decoration: none;
 }
