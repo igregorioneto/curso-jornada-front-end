@@ -1,7 +1,4 @@
-header {
-  width: 1024px;
-  margin: 30px auto;
-
+header section {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -12,7 +9,6 @@ header nav ul {
   display: flex;
   flex-direction: row;
   align-items: center;
-  list-style: none;
 }
 
 header nav ul li a{
